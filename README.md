@@ -1,6 +1,10 @@
 Simple NATS server & client implementation
 
-To run app, in different terminals exec:
+To run app run
+```shell
+make nats
+```
+and in different terminals exec:
 ```shell
 make server
 ```
